@@ -72,19 +72,6 @@ Visual comparison of clean, triggered, and noise-defended inputs
 Pixel value distribution analysis
 Class activation comparison under perturbation
 
-# Clone the repository
-git clone https://github.com/your-username/backdoor-defense-noise.git
-cd backdoor-defense-noise
-
-# Install required libraries
-pip install -r requirements.txt
-🚀 How to Use
-Open the notebook and run all cells:
-bash
-Copy
-Edit
-jupyter notebook "Backdoor Attacks with Noise-based Defenses.ipynb"
-Modify hyperparameters like trigger size, noise level, and defense intensity in the respective cells to test various scenarios.
 
 🧠 Key Learnings
 Backdoor attacks are easy to implement and hard to detect with conventional testing.
