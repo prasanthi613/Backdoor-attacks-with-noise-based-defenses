@@ -1,4 +1,4 @@
-Backdoor Attacks with Noise-based Defenses
+**Backdoor Attacks with Noise-based Defenses**
 
 
 This project explores the impact of backdoor attacks on deep learning models and implements noise-based defense strategies to mitigate them. Using the CIFAR-100 dataset and PyTorch, it demonstrates how models can be compromised with minimal tampering and investigates methods to detect and neutralize such threats.
